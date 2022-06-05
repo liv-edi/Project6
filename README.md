@@ -1,5 +1,7 @@
 ## Project 6
 
+[Home](https://liv-edi.github.io/cit281/)
+
 In this project we created three classes including a Shape class, Rectangle class, and Trinagle class. The Shape class was the bas class for the the Trinagle and Rectangle class which both inherited from the Shape class. The Shape class returned a perimeter value that the other two classes used to return an area value.
 
 Technologies used for this project:
